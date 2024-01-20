@@ -14,4 +14,9 @@
 
 Автоматизация теста.
 
-Для запуска теста необходимо в файл configuration скопировить актуальный URL В файле sendor_stand_request нажать кнопку Run
+Для запуска теста необходимо в файл configuration скопировить актуальный URL В файле sendor_stand_request нажать кнопку Run.
+Открываем проект в PyCharm вставляем адрес сервиса в configuration после открываем avtotest нажимаем кнопку RUN/  
+data.py тело запроса 
+configuration.py адрес сервера и эндпоинт
+sender_stand_request.py  размещены методы для посылки запроса 
+avtotest сам автотест
